@@ -1,2 +1,3 @@
 # error-pages
-HTML files for showing the users various server errors on openSUSE websites
+
+This HTML file is used to show  to show the errors which is made by users from opensource websites
